@@ -6,7 +6,7 @@ import {
   BarChart, Bar, Cell, Legend
 } from "recharts";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://grid-mind-ai.onrender.com";
 
 const COLORS = {
   bg:      "#020818",
